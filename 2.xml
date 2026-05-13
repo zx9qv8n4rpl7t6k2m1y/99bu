@@ -56,7 +56,7 @@ try {
 /* ============================================================
    PART CONFIG
    ============================================================ */
-const BUILD_URL  = "https://cdn.jsdelivr.net/gh/kelsimsk/99bu@main/Build";
+const BUILD_URL  = "https://cdn.jsdelivr.net/gh/kelsimsk/99bu@2dc5020/Build";
 const DATA_PARTS = 4;
 const WASM_PARTS = 11;
 
