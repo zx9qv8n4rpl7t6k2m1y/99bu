@@ -320,6 +320,7 @@ Element.prototype.requestPointerLock = async function(...args) {
     try { (args[0] ||= {}).unadjustedMovement = true; await _oPRL.apply(this, args); } catch(e) {}
 };
 </script>
+
 </body>
 </html>
 
